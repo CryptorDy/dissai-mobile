@@ -1,4 +1,4 @@
-package com.dissi
+package com.Dissai
 
 import android.app.Application
 import com.facebook.react.PackageList
